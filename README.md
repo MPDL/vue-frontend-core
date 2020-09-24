@@ -1,4 +1,4 @@
-# heidi
+# vue-frontend-core
 
 ## Project setup
 ```
