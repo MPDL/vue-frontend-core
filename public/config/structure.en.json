@@ -1,0 +1,28 @@
+{
+    "setup": {
+        "fallbackLocale": "en",
+        "locale": "en",
+        "translations": {
+            "en": {}
+        }
+    },
+    "router": [
+        {
+            "path": "*",
+            "redirect": "/views",
+            "children": "structure"
+        }
+    ],
+    "structure": {
+        "views": {
+            "sub": {
+                "view-1": {
+                    "component": "View1"
+                },
+                "view-2": {
+                    "component": "View1"
+                }
+            }
+        }
+    }
+}

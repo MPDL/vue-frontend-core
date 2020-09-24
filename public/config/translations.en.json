@@ -1,0 +1,13 @@
+{
+    "en": {
+        "languages": {
+            "en": "English",
+            "de": "German",
+            "ru": "Russian",
+            "fr": "French",
+            "it": "Italian",
+            "es": "Spanish",
+            "zh": "Chinese"
+        }
+    }
+}
